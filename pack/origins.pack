@@ -1,8 +1,6 @@
 Configs,8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85,https://clarence43.github.io/Origins/pack/configs.zip,config,8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85
+Adorn,4ed36a62,https://clarence43.github.io/Origins/pack/mods/Adorn-2.3.1%2B1.17.1-fabric.jar,mod,4ed36a625f1510c2dfec918cdd8d531bdaca84c90dffad274ea8d58b5bf84bc4,
+Croptopia,e9607f97,https://clarence43.github.io/Origins/pack/mods/Croptopia-1.17.1-FABRIC-1.6.3.jar,mod,e9607f97f281dd756281fe1493c88652c388ab1b51b3de2636c78fd7e44d522b,
 EnvironmentalArmor,1ec2a05c,https://clarence43.github.io/Origins/pack/mods/EnvironmentalArmor-1.17.1-1.4.1.jar,mod,1ec2a05cd1fd24cdf14f5e74bec1e737ab844e9dd547a725dc1e00704a2d6bf5,
 fabric-api,405e1db7,https://clarence43.github.io/Origins/pack/mods/fabric-api-0.40.8%2B1.17.jar,mod,405e1db7e76e13c07218ef9e57184a55eff435cc07790a2c879a4c734becdf30,
-lithium-fabric-mc1.17.1,ce1594d3,https://clarence43.github.io/Origins/pack/mods/lithium-fabric-mc1.17.1-0.7.4.jar,mod,ce1594d3923d6aa0b5b193eab3aedbf9e5348e98c385ec788be66f0032f58e73,
-Origins,e83d4958,https://clarence43.github.io/Origins/pack/mods/Origins-1.17-1.1.2.jar,mod,e83d49585f79853618bf8cc369d6d448b8d7b3a721bd3a1cd8c955e2ddaa71ed,
-Pehkui,71ef5d31,https://clarence43.github.io/Origins/pack/mods/Pehkui-2.4.0%2B1.14.4-1.17.1.jar,mod,71ef5d31e89e26849b03d9b1c2b30005d4044563addb2624291d5d5d72b7771f,
-sodium-fabric-mc1.17.1,e24690d0,https://clarence43.github.io/Origins/pack/mods/sodium-fabric-mc1.17.1-0.3.2%2Bbuild.7.jar,mod,e24690d0f9cf72b56a191c60013becf22dd59ff6d53ccec854a77dc1a13b1022,
-voicechat-fabric,a8817d55,https://clarence43.github.io/Origins/pack/mods/voicechat-fabric-1.17.1-1.1.9.jar,mod,a8817d551fdca4b0293dbc074ba79250b9d11b6af88889a09124a6a68905ddc2,
+fabric-language-kotlin,56f49cd0,https://clarence43.github.io/Origins/pack/mods/fabric-language-kotlin-1.6.5%2Bkotlin.1.5.31.jar,mod,56f49cd0fd03be07ae6860dd18e5b6b8ada92db666f24470aa29b9a239d0d993,
